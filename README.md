@@ -1,2 +1,2 @@
 # DruidEnviroment
-Some notes about building druid platdforming
+Some notes about building druid platdform
