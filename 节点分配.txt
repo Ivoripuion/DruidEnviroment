@@ -1,0 +1,14 @@
+192.168.111.101| 192.168.111.102 | 192.168.111.103
+-------------------------------------------------------
+
+historical| coordinator | broker
+
+middleManager| overlord  | pivot
+
+tranquility-kafka|
+|
+-------------------------------------------------------
+
+
+cp {core-site.xml,hdfs-site.xml,mapred-site.xml,yarn-site.xml} /d
+ruid/imply-2.7.5/conf/druid/_common/
